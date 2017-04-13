@@ -1,6 +1,5 @@
 <html>
+<head>
+<title>Oscar's Insulation</title>
+</head>
 <body>
-<body/>
-<title>
-<title/>
-<html/>
