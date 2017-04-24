@@ -1,8 +1,12 @@
-h1{
-color: red;
-font size 20px;
-}
-#sentence2{
-color: red;
-font-size: 50px;
-}
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title>Oscar's Insulation</title>
+</head>
+<body>
+<h1>Welcome to Oscar's Insulation</h1>
+<p>In need of assistance to put insulation on your home? Well Oscar's insulation can help you with that</p>
+<p</p>
+</body>
+
+</html>
