@@ -1,10 +1,10 @@
-<html>
-<head>
-<link rel="stylesheet" type/css"href="style.css".
-<title>Oscar's Insulation</title>
-</head>
-<body>
-<h1>Welcome to Oscar's Insulation</h1>
-<p></p>
-<p</p>
-</html>
+h1{
+color: red;
+font size 20px;
+}
+#sentence2{
+color: red;
+font-size: 50px;
+}
+title{
+font-size 60px
