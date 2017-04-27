@@ -1,13 +1,12 @@
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
-<title>Oscar's Insulation</title>
+  <title>Oscar's Insulation</title>
 </head>
 <body>
 <h1>Welcome to Oscar's Insulation</h1>
-<p></p>
-<p</p>
+  <p>Need help with installing or in need of insulation?</p>
+<p id="sentence2">General contracting<p>
 </body>
-
 
 </html>
